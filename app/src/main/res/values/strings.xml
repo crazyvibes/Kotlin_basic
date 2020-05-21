@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin_basic</string>
+    <string name="circumference">Circumference is</string>
+    <string name="area">Area is</string>
+</resources>
